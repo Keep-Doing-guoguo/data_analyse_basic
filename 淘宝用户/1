@@ -14,3 +14,13 @@
 
 7周岁最多为365*7=2555天，那么对于天数大于2560天的天数视为无效数据，删除行。
 最后将我们处理过后的数据保存至“downloads/151165/new_trade_history.csv”
+
+
+二、代码来源：
+https://tianchi.aliyun.com/notebook/560208
+
+三、案例来源：
+https://tianchi.aliyun.com/competition/coupleList
+
+四：具体来源：
+https://tianchi.aliyun.com/competition/entrance/532082/information
